@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+NoDisplay=false
+Name=Zoom Web Launcher
+Exec=zpwa %u
+StartupNotify=false
+MimeType=x-scheme-handler/zoommtg;

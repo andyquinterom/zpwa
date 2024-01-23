@@ -1,0 +1,4 @@
+Opening in existing browser session.
+Opening in existing browser session.
+xdg-open: unexpected option '--app=https://app.zoom.us/wc/{confno}/join?fromPWA=1'
+Try 'xdg-open --help' for more information.
